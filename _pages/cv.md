@@ -9,11 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-%Education
-%======
-%* B.S. in GitHub, GitHub University, 2018
-%* M.S. in Jekyll, GitHub University, 2019
-%* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-
   

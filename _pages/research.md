@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?
+[Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620347)
 
 with Ron Berman. Under Review
 

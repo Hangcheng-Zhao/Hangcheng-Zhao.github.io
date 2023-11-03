@@ -87,7 +87,7 @@ author:
   location         : "3730 Walnut Street, philadelphia,PA "
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
+  googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Hangcheng-Zhao"
+  github           : #"Hangcheng-Zhao"
   google_plus      :
   keybase          :
   instagram        :

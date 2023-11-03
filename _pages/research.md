@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Title: "Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?"
+Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?
 
 with Ron Berman. Under Review
 

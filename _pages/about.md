@@ -10,7 +10,7 @@ redirect_from:
 
 I am Hangcheng Zhao, a fourth-year Ph.D. in [quantitative marketing](https://marketing.wharton.upenn.edu/phd-program-in-marketing/) at the [Wharton School](https://www.wharton.upenn.edu/) of University of Pennsylvania. 
 
-I work on pricing and I study the relationship between pricing and information in contemporary markets and in the context of modern techniques. I am interested in exploring the potential limitations of this relationship.
+I work on pricing and I study the relationship between pricing and information in contemporary markets and in the context of modern techniques. 
 
 Previously, I received my Bachelor's degree from Tsinghua Unversity and Master's degree from the University of Chicago. 
 

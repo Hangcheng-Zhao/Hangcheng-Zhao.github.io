@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hangcheng Zhao / Homepage"
+title                    : "Hangcheng Zhao"
 title_separator          : "-"
 name                     : &name "Hangcheng Zhao"
 description              : &description "personal description"

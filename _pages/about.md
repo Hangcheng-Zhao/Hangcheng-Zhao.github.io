@@ -17,6 +17,8 @@ I work on pricing and I study the relationship between pricing and information i
 
 Previously, I received my Bachelor's degree from [Tsinghua Unversity](https://www.tsinghua.edu.cn/en/) and Master's degree from the [University of Chicago](https://www.uchicago.edu/en). 
 
+<!-- Adding a space line -->
+&nbsp;
 
 Research Interests: Pricing, Online Marketing, Platform, Algorithms, Empirical IO, Reinforcement Learning
 

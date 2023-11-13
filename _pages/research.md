@@ -25,9 +25,8 @@ with Ron Berman. Under Review
   </p>
 </details>
 
+<!-- Extra line break for spacing -->
 
-
-[Strategic Recommendation Algorithms: Overselling and Demarketing Information Designs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301489)
 
 <h2 style="font-size: 20px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301489">
@@ -48,7 +47,6 @@ with Ron Berman and Yi Zhu. Major Revision at <i>Marketing Science</i>
 
 <!-- Extra line break for spacing -->
 
-[Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403)
 
 
 <h2 style="font-size: 20px;">

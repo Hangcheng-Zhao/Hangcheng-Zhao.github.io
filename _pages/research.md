@@ -34,7 +34,7 @@ with [Ron Berman](https://ron-berman.com). Under Review
   </a>
 </h2>
 
-with Ron Berman and Yi Zhu. Major Revision at <i>Marketing Science</i>
+with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). Major Revision at <i>Marketing Science</i>
 
 <details>
   <summary>Abstract</summary>

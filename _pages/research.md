@@ -25,7 +25,7 @@ with Ron Berman. Under Review
   </p>
 </details>
 
-<!>
+
 
 [Strategic Recommendation Algorithms: Overselling and Demarketing Information Designs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301489)
 

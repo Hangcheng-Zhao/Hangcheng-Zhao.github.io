@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h2 style="font-size: 20px;">
+<h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620347">
     Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?
   </a>
@@ -28,7 +28,7 @@ with Ron Berman. Under Review
 <!-- Extra line break for spacing -->
 
 
-<h2 style="font-size: 20px;">
+<h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301489">
     Strategic Recommendation Algorithms: Overselling and Demarketing Information Designs
   </a>
@@ -49,7 +49,7 @@ with Ron Berman and Yi Zhu. Major Revision at <i>Marketing Science</i>
 
 
 
-<h2 style="font-size: 20px;">
+<h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403">
     Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests
   </a>

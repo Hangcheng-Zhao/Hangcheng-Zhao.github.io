@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Extra line break for spacing -->
-
+<!-- Adding a space line -->
+&nbsp;
 
 I am Hangcheng Zhao, a fourth-year Ph.D. in [quantitative marketing](https://marketing.wharton.upenn.edu/phd-program-in-marketing/) at the the [Wharton School](https://www.wharton.upenn.edu/) of University of Pennsylvania. 
 

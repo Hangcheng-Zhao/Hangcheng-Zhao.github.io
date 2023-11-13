@@ -14,7 +14,7 @@ redirect_from:
   </a>
 </h2>
 
-with [Ron Berman(https://ron-berman.com). Under Review
+with [Ron Berman](https://ron-berman.com). Under Review
 
 <details>
   <summary>Abstract</summary>

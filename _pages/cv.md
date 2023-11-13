@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download CV (PDF)]({{ site.baseurl }}/files/CV_Hangcheng_Zhao_Nov_2023.pdf)
 
   

@@ -8,9 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620347)
-
-<h2 style="font-size: larger;">
+<h2 style="font-size: 20px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620347">
     Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?
   </a>
@@ -27,9 +25,15 @@ with Ron Berman. Under Review
   </p>
 </details>
 
-<!-- Extra line break for spacing -->
+<!>
 
 [Strategic Recommendation Algorithms: Overselling and Demarketing Information Designs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301489)
+
+<h2 style="font-size: 20px;">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301489">
+    Strategic Recommendation Algorithms: Overselling and Demarketing Information Designs
+  </a>
+</h2>
 
 with Ron Berman and Yi Zhu. Major Revision at <i>Marketing Science</i>
 
@@ -45,6 +49,13 @@ with Ron Berman and Yi Zhu. Major Revision at <i>Marketing Science</i>
 <!-- Extra line break for spacing -->
 
 [Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403)
+
+
+<h2 style="font-size: 20px;">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403">
+    Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests
+  </a>
+</h2>
 
 with Zhonghong Kuang and Jie Zheng. Major Revision at <i>Games and Economic Behavior</i>
 

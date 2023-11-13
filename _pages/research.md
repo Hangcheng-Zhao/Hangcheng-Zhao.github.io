@@ -32,3 +32,8 @@ with Ron Berman and Yi Zhu. Major Revision at <i>Marketing Science</i>
 [Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403)
 
 with Zhonghong Kuang and Jie Zheng. Major Revision at <i>Games and Economic Behavior</i>
+
+<details>
+  <summary>Abstract</summary>
+  Two contestants informed of their own type compete in a contest, and the organizer ex-ante designs a public anonymous disclosure policy to maximize contestants’ total effort. While a mildly-correlated posterior leads to an efficient equilibrium with maximized surplus, a sufficiently-positively-correlated posterior achieves exploitation with zero contestant equilibrium payoff. We define and fully characterize ridge distributions, under which the equilibrium is both efficient and exploitative. Whenever a partial disclosure policy is optimal, it generates at least one posterior from ridge distributions. With a prior of sufficiently positive correlation, the optimal policy is both efficient and exploitative; otherwise, it is neither efficient nor exploitative.
+</details>

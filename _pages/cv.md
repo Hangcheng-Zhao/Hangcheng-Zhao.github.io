@@ -9,5 +9,5 @@ redirect_from:
 
 [Download CV (PDF)]({{ site.baseurl }}/files/CV_Hangcheng_Zhao_Nov_2023.pdf)
 
-<iframe src="{{ site.baseurl }}/files/CV_Hangcheng_Zhao_Nov_2023.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
+<iframe src="{{ site.baseurl }}/files/CV_Hangcheng_Zhao_Nov_2023.pdf" style="width:100%; height:1000px;" frameborder="0"></iframe>
 

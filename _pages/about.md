@@ -14,6 +14,7 @@ I work on pricing and I study the relationship between pricing and information i
 
 Previously, I received my Bachelor's degree from Tsinghua Unversity and Master's degree from the University of Chicago. 
 
+
 Research Interests: Pricing, Online Marketing, Platform, Algorithms, Empirical IO, Reinforcement Learning
 
 Get in touch at [zhaohc@wharton.upenn.edu](mailto:zhaohc@wharton.upenn.edu)

@@ -10,6 +10,12 @@ redirect_from:
 
 [Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620347)
 
+<h2 style="font-size: larger;">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620347">
+    Analyzing Healthcare Price Transparency: Will Patients Shop for Services More Effectively?
+  </a>
+</h2>
+
 with Ron Berman. Under Review
 
 <details>
@@ -29,7 +35,7 @@ with Ron Berman and Yi Zhu. Major Revision at <i>Marketing Science</i>
 
 <details>
   <summary>Abstract</summary>
-  <p style="font-size: smaller;">
+  <p style="font-size: smaller; margin-left: 40px;">
     <i>
       We analyze recommendation algorithms that firms can engineer to strategically provide information to consumers about products with uncertain matches. Monopolists who cannot alter prices can design recommendation algorithms to oversell the product instead of algorithmically recommending perfectly matching products. However, when prices are endogenous or when competition is rampant, firms opt to lower their persuasive claims and instead choose to fully reveal the product’s match (i.e., maximize recall and precision). As competition strengthens, the algorithms will shift to demarket their products in order to soften competition. When a platform designs a recommendation algorithm for products sold by third party sellers we find that overselling is not an equilibrium strategy of the platform, but demarketing might be. Overselling entails designing an algorithm that recommends badly fitting products to consumers, which would lower the consumers’ ex-ante willingness to pay, and thus increase competition among the sellers and lower the platform’s profit. Demarketing, in contrast, softens the competition among sellers from the information perspective, which can be lucrative for the platform.
     </i>
@@ -44,7 +50,7 @@ with Zhonghong Kuang and Jie Zheng. Major Revision at <i>Games and Economic Beha
 
 <details>
   <summary>Abstract</summary>
-  <p style="font-size: smaller;">
+  <p style="font-size: smaller; margin-left: 40px;">
     <i>
       Two contestants informed of their own type compete in a contest, and the organizer ex-ante designs a public anonymous disclosure policy to maximize contestants’ total effort. While a mildly-correlated posterior leads to an efficient equilibrium with maximized surplus, a sufficiently-positively-correlated posterior achieves exploitation with zero contestant equilibrium payoff. We define and fully characterize ridge distributions, under which the equilibrium is both efficient and exploitative. Whenever a partial disclosure policy is optimal, it generates at least one posterior from ridge distributions. With a prior of sufficiently positive correlation, the optimal policy is both efficient and exploitative; otherwise, it is neither efficient nor exploitative.
     </i>

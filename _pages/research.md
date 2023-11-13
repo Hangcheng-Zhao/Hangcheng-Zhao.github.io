@@ -14,7 +14,7 @@ with Ron Berman. Under Review
 
 <details>
   <summary>Click!</summary>
-<details>
+</details>
 
 
 

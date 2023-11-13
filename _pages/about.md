@@ -15,7 +15,7 @@ I am Hangcheng Zhao, a fourth-year Ph.D. in [quantitative marketing](https://mar
 
 I work on pricing and I study the relationship between pricing and information in contemporary markets and in the context of modern techniques. 
 
-Previously, I received my Bachelor's degree from Tsinghua Unversity and Master's degree from the [University of Chicago](https://www.uchicago.edu/en). 
+Previously, I received my Bachelor's degree from [Tsinghua Unversity](https://www.tsinghua.edu.cn/en/) and Master's degree from the [University of Chicago](https://www.uchicago.edu/en). 
 
 
 Research Interests: Pricing, Online Marketing, Platform, Algorithms, Empirical IO, Reinforcement Learning

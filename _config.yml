@@ -84,13 +84,13 @@ author:
   name             : "Hangcheng Zhao"
   avatar           : "photo.JPG"
   bio              : "Ph.D. Candidate, Wharton"
-  location         : "3730 Walnut Street"
-  employer         : "Philadelphia, PA"
+  location         : "3730 Walnut Street, Philadelphia"
+  employer         : "[Department Page](https://marketing.wharton.upenn.edu/profile/zhaohc/)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wZJeKC0AAAAJ&hl=en"
-  email            :
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :

@@ -89,7 +89,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wZJeKC0AAAAJ&hl=en"
   email            : "zhaohc@wharton.upenn.edu"
-  uri              : 
+  uri              : "https://marketing.wharton.upenn.edu/profile/zhaohc/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HangchengZhao"
+  twitter          : #"HangchengZhao"
   vine             :
   weibo            :
   xing             :

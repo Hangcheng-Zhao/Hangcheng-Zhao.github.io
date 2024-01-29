@@ -7,6 +7,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+<h2 style="font-size: 18px;">
+    Sponsored Products Ads, Algorithmic Pricing, and More Harmless Collusion
+  </a>
+</h2>
+Preliminary draft available upon request
 
 <h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620347">

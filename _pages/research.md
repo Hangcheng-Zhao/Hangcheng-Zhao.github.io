@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 <h2 style="font-size: 18px;">
-    Sponsored Products Ads, Algorithmic Pricing, and More Harmless Collusion
+    Sponsored Product Ads, Algorithmic Pricing, and More Harmless Collusion
 </h2>
 Preliminary draft available upon request
 

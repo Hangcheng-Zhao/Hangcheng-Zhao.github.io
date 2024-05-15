@@ -65,7 +65,7 @@ with Zhonghong Kuang and Jie Zheng. Minor Revision at <i>Games and Economic Beha
   <summary>Abstract</summary>
   <p style="font-size: smaller; margin-left: 40px;">
     <i>
-      Two contestants informed of their own type compete in a contest, and the organizer ex-ante designs a public anonymous disclosure policy to maximize contestants’ total effort. While a mildly-correlated posterior leads to an efficient equilibrium with maximized surplus, a sufficiently-positively-correlated posterior achieves exploitation with zero contestant equilibrium payoff. We define and fully characterize ridge distributions, under which the equilibrium is both efficient and exploitative. Whenever a partial disclosure policy is optimal, it generates at least one posterior from ridge distributions. With a prior of sufficiently positive correlation, the optimal policy is both efficient and exploitative; otherwise, it is neither efficient nor exploitative.
+      Two informed contestants compete in a contest, and the organizer ex-ante designs a public anonymous disclosure policy to maximize contestants’ total effort. We fully characterize ridge distributions, under which the organizer achieves the first best outcome in equilibrium: the allocation is efficient, and the entire surplus goes to the organizer. When the prior is more positively correlated than ridge distributions, the first-best outcome is achievable by the signal that solely generates ridge distributions as posteriors.
     </i>
   </p>
 </details>

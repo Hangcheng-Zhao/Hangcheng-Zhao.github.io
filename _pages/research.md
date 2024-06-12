@@ -10,7 +10,26 @@ redirect_from:
 <h2 style="font-size: 18px;">
     Sponsored Product Ads, Algorithmic Pricing, and More Harmless Collusion
 </h2>
-Preliminary draft available upon request
+with [Ron Berman](https://ron-berman.com). 
+
+
+<h2 style="font-size: 18px;">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403">
+    Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests
+  </a>
+</h2>
+
+with Zhonghong Kuang and Jie Zheng. Minor Revision at <i>Games and Economic Behavior</i>
+
+<details>
+  <summary>Abstract</summary>
+  <p style="font-size: smaller; margin-left: 40px;">
+    <i>
+      Two informed contestants compete in a contest, and the organizer ex-ante designs a public anonymous disclosure policy to maximize contestants’ total effort. We fully characterize ridge distributions, under which the organizer achieves the first best outcome in equilibrium: the allocation is efficient, and the entire surplus goes to the organizer. When the prior is more positively correlated than ridge distributions, the first-best outcome is achievable by the signal that solely generates ridge distributions as posteriors.
+    </i>
+  </p>
+</details>
+
 
 <h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620347">
@@ -18,7 +37,7 @@ Preliminary draft available upon request
   </a>
 </h2>
 
-with [Ron Berman](https://ron-berman.com). Under Review
+with [Ron Berman](https://ron-berman.com). Under Revision
 
 <details>
   <summary>Abstract</summary>
@@ -38,7 +57,7 @@ with [Ron Berman](https://ron-berman.com). Under Review
   </a>
 </h2>
 
-with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). Major Revision at <i>Marketing Science</i>
+with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). Under Revision
 
 <details>
   <summary>Abstract</summary>
@@ -53,19 +72,4 @@ with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn
 
 
 
-<h2 style="font-size: 18px;">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403">
-    Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests
-  </a>
-</h2>
 
-with Zhonghong Kuang and Jie Zheng. Minor Revision at <i>Games and Economic Behavior</i>
-
-<details>
-  <summary>Abstract</summary>
-  <p style="font-size: smaller; margin-left: 40px;">
-    <i>
-      Two informed contestants compete in a contest, and the organizer ex-ante designs a public anonymous disclosure policy to maximize contestants’ total effort. We fully characterize ridge distributions, under which the organizer achieves the first best outcome in equilibrium: the allocation is efficient, and the entire surplus goes to the organizer. When the prior is more positively correlated than ridge distributions, the first-best outcome is achievable by the signal that solely generates ridge distributions as posteriors.
-    </i>
-  </p>
-</details>

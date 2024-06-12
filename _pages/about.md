@@ -16,6 +16,6 @@ My name is Hangcheng Zhao, and I am a fourth-year Ph.D. in [quantitative marketi
 <!-- Adding a half line of space -->
 <div style="margin-top: 1em;"></div>
 
-Research Interests: Pricing, Online Marketing, Platform, Algorithms, Empirical IO, Reinforcement Learning
+Research Interests:  Pricing, Algorithmic Decision-Making, Reinforcement Learning,  Recommendation Algorithms, Platforms, Online Marketing,  Empirical IO
 
 Get in touch at [zhaohc@wharton.upenn.edu](mailto:zhaohc@wharton.upenn.edu)

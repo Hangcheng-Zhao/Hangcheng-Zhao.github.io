@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 <h2 style="font-size: 18px;">
-    Algorithmic Collusion of Pricing and Advertising on E-commerce Platforms
+    Algorithmic Collusion of Pricing and Advertising on E-commerce Platforms <i>(Job Market Paper)</i>
 </h2>
 with [Ron Berman](https://ron-berman.com). 
 

@@ -18,4 +18,11 @@ I am a fourth-year Ph.D. student in [quantitative marketing](https://marketing.w
 
 Research Interests:  Pricing, Algorithmic Decision-Making, Reinforcement Learning,  Recommendation Algorithms, Platforms, Online Marketing,  Empirical IO
 
+<!-- Adding a half line of space -->
+<div style="margin-top: 1em;"></div>
+
+<i>I am currently on the job market 2024-2025.<i>
+
+<!-- Adding a half line of space -->
+<div style="margin-top: 1em;"></div>
 Get in touch at [zhaohc@wharton.upenn.edu](mailto:zhaohc@wharton.upenn.edu)

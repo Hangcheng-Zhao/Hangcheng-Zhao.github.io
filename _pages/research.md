@@ -47,17 +47,17 @@ with Zhonghong Kuang and Jie Zheng. Minor Revision at <i>Games and Economic Beha
 
 <h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301489">
-    Strategic Recommendation Algorithms: Overselling and Demarketing Information Designs
+    Strategic Design of Recommendation Algorithms
   </a>
 </h2>
 
-with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). Under Revision
+with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). Submitted for Review at <i>Management Science</i> 
 
 <details>
   <summary>Abstract</summary>
   <p style="font-size: smaller; margin-left: 40px;">
     <i>
-      We analyze recommendation algorithms that firms can engineer to strategically provide information to consumers about products with uncertain matches. Monopolists who cannot alter prices can design recommendation algorithms to oversell the product instead of algorithmically recommending perfectly matching products. However, when prices are endogenous or when competition is rampant, firms opt to lower their persuasive claims and instead choose to fully reveal the product’s match (i.e., maximize recall and precision). As competition strengthens, the algorithms will shift to demarket their products in order to soften competition. When a platform designs a recommendation algorithm for products sold by third party sellers we find that overselling is not an equilibrium strategy of the platform, but demarketing might be. Overselling entails designing an algorithm that recommends badly fitting products to consumers, which would lower the consumers’ ex-ante willingness to pay, and thus increase competition among the sellers and lower the platform’s profit. Demarketing, in contrast, softens the competition among sellers from the information perspective, which can be lucrative for the platform.
+      We analyze recommendation algorithms that firms can engineer to strategically provide information to consumers about products with uncertain matches to their tastes. Monopolists who cannot alter prices can design recommendation algorithms to oversell, i.e., that recommend products even if they are not a perfect fit, instead of algorithmically recommending perfectly matching products. However, when prices are endogenous or when competition is rampant, firms opt to reduce their overselling efforts and instead choose to fully reveal the product's match (i.e., maximize recall and precision). As competition strengthens, the algorithms will shift to demarket their products, i.e., under-recommend highly fitting products, in order to soften price competition. When a platform designs a recommendation algorithm for products sold by third-party sellers, we find that demarketing might be a more prevalent strategy of the platform. Additionally, we find that platforms bound by fairness constraints may gain lower profits compared to letting sellers compete, while discriminatory designs do not necessarily result in preferential outcomes for a specific seller.
     </i>
   </p>
 </details>

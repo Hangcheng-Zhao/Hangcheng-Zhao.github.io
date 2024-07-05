@@ -51,7 +51,7 @@ with Zhonghong Kuang and Jie Zheng. Minor Revision at <i>Games and Economic Beha
   </a>
 </h2>
 
-with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). Submitted for Review at <i>Management Science</i> 
+with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). Under Review at <i>Management Science</i> 
 
 <details>
   <summary>Abstract</summary>

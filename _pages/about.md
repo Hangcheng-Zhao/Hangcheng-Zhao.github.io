@@ -17,7 +17,7 @@ I am a Ph.D. candidate in [quantitative marketing](https://marketing.wharton.upe
 <div style="margin-top: 1em;"></div>
 
 Research Interests:  
-**Substantive:**  Pricing, Algorithmic Decision-Making, Recommendation Algorithms, Advertising, Platforms, Online Marketing
+**Substantive:**  Pricing, Algorithmic Decision-Making, Recommendation Algorithms, Advertising, Platforms, Online Marketing.<br>
  **Methodological:** Reinforcement Learning, Artificial Intelligence, Empirical IO
 
 <!-- Adding a half line of space -->

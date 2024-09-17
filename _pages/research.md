@@ -77,7 +77,7 @@ with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn
   </a>
 </h2>
 
-with Zhonghong Kuang and Jie Zheng. Minor Revision at <i>Games and Economic Behavior</i>
+with Zhonghong Kuang and Jie Zheng. Forthcoming at <i>Games and Economic Behavior</i>
 
 <details>
   <summary>Abstract</summary>

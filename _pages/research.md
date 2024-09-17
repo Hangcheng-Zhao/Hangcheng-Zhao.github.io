@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Working Papers"
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
 ---
 
 {% include base_path %}
+<h1>Working Papers</h1>
 <h2 style="font-size: 18px;">
     Algorithmic Collusion of Pricing and Advertising on E-commerce Platforms <i>(Job Market Paper)</i>
 </h2>

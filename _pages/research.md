@@ -1,12 +1,30 @@
 ---
 layout: archive
-title: "Research"
+title: "Publications"
 permalink: /research/
 author_profile: true
 redirect_from:
 ---
 
 {% include base_path %}
+
+<h2 style="font-size: 18px;">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403">
+    Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests
+  </a>
+</h2>
+
+with Zhonghong Kuang and Jie Zheng. Forthcoming at <i>Games and Economic Behavior</i>
+
+<details>
+  <summary>Abstract</summary>
+  <p style="font-size: smaller; margin-left: 40px;">
+    <i>
+      Two informed contestants compete in a contest, and the organizer ex-ante designs a public anonymous disclosure policy to maximize contestants’ total effort. We fully characterize ridge distributions, under which the organizer achieves the first best outcome in equilibrium: the allocation is efficient, and the entire surplus goes to the organizer. When the prior is more positively correlated than ridge distributions, the first-best outcome is achievable by the signal that solely generates ridge distributions as posteriors.
+    </i>
+  </p>
+</details>
+
 <h1>Working Papers</h1>
 <h2 style="font-size: 18px;">
     Algorithmic Collusion of Pricing and Advertising on E-commerce Platforms <i>(Job Market Paper)</i>
@@ -72,22 +90,6 @@ with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn
 
 
 
-<h2 style="font-size: 18px;">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403">
-    Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests
-  </a>
-</h2>
-
-with Zhonghong Kuang and Jie Zheng. Forthcoming at <i>Games and Economic Behavior</i>
-
-<details>
-  <summary>Abstract</summary>
-  <p style="font-size: smaller; margin-left: 40px;">
-    <i>
-      Two informed contestants compete in a contest, and the organizer ex-ante designs a public anonymous disclosure policy to maximize contestants’ total effort. We fully characterize ridge distributions, under which the organizer achieves the first best outcome in equilibrium: the allocation is efficient, and the entire surplus goes to the organizer. When the prior is more positively correlated than ridge distributions, the first-best outcome is achievable by the signal that solely generates ridge distributions as posteriors.
-    </i>
-  </p>
-</details>
 
 
 

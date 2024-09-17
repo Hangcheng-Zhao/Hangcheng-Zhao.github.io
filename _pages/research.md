@@ -25,6 +25,8 @@ with Zhonghong Kuang and Jie Zheng. Forthcoming at <i>Games and Economic Behavio
   </p>
 </details>
 
+<!-- Extra line break for spacing -->
+
 <h1>Working Papers</h1>
 <h2 style="font-size: 18px;">
     Algorithmic Collusion of Pricing and Advertising on E-commerce Platforms <i>(Job Market Paper)</i>

@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 <h2 style="font-size: 18px;">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509403">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0899825624001428?via%3Dihub">
     Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests
   </a>
 </h2>

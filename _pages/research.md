@@ -10,7 +10,7 @@ redirect_from:
 
 <h2 style="font-size: 18px;">
   <a href="https://www.sciencedirect.com/science/article/pii/S0899825624001428?via%3Dihub">
-    Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests, 
+    Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests 
   </a>
   (with Zhonghong Kuang and Jie Zheng). <i>Games and Economic Behavior (2024).</i>
 </h2>

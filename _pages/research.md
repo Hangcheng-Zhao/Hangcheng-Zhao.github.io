@@ -8,9 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+(* indicates alphabetical ordering of authors)
 <h2 style="font-size: 18px;">
   <a href="https://www.sciencedirect.com/science/article/pii/S0899825624001428?via%3Dihub">
-    Z. Kuang, H. Zhao, & J. Zheng (2024), Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests, <i>Games and Economic Behavior</i>, 148, 218-243
+    * Z. Kuang, H. Zhao, & J. Zheng (2024), Ridge Distributions and Information Design in Simultaneous All-Pay Auction Contests, <i>Games and Economic Behavior</i>, 148, 218-243
   </a>
 </h2>
 

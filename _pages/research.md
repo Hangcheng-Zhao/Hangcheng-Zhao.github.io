@@ -32,8 +32,7 @@ redirect_from:
     Algorithmic Collusion of Pricing and Advertising on E-commerce Platforms <i>(Job Market Paper)</i>
 </h2>
 with [Ron Berman](https://ron-berman.com). 
-
-Finalist, 2025 ASA Marketing Section Doctoral Dissertation Research Award 
+<i>Finalist, 2025 ASA Marketing Section Doctoral Dissertation Research Award<i> 
 <details>
   <summary>Abstract</summary>
   <p style="font-size: smaller; margin-left: 40px;">

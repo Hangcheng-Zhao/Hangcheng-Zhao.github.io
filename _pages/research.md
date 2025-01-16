@@ -33,6 +33,7 @@ redirect_from:
 </h2>
 with [Ron Berman](https://ron-berman.com). 
 
+Finalist, 2025 ASA Marketing Section Doctoral Dissertation Research Award 
 <details>
   <summary>Abstract</summary>
   <p style="font-size: smaller; margin-left: 40px;">
@@ -55,7 +56,7 @@ Our analyses help alleviate some worries about the potentially harmful effects o
   </a>
 </h2>
 
-with [Ron Berman](https://ron-berman.com). Under Revision
+with [Ron Berman](https://ron-berman.com). 
 
 <details>
   <summary>Abstract</summary>
@@ -76,8 +77,7 @@ with [Ron Berman](https://ron-berman.com). Under Revision
   </a>
 </h2>
 
-with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). Under Review at <i>Management Science</i> 
-
+with [Ron Berman](https://ron-berman.com) and [Yi Zhu](https://carlsonschool.umn.edu/faculty/yi-zhu). 
 <details>
   <summary>Abstract</summary>
   <p style="font-size: smaller; margin-left: 40px;">

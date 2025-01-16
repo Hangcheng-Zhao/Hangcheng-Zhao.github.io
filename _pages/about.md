@@ -23,7 +23,7 @@ Methodological: Reinforcement Learning, Artificial Intelligence, Empirical IO
 <!-- Adding a half line of space -->
 <div style="margin-top: 1em;"></div>
 
-<i>I am currently on the job market 2024-2025.<i>
+I will be joining Rutgers University as an Assistant Professor of Marketing in the summer of 2025.
 
 <!-- Adding a half line of space -->
 <div style="margin-top: 1em;"></div>

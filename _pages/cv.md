@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV (PDF)]({{ site.baseurl }}/files/CV_Long_Hangcheng_Zhao_Oct_2024.pdf)
+[Download CV (PDF)]({{ site.baseurl }}/files/CV_Short_Hangcheng_Zhao_Jan_2025.pdf)
 
-<iframe src="{{ site.baseurl }}/files/CV_Long_Hangcheng_Zhao_Oct_2024.pdf" style="width:100%; height:1000px;" frameborder="0"></iframe>
+<iframe src="{{ site.baseurl }}/files/CV_Short_Hangcheng_Zhao_Jan_2025.pdf" style="width:100%; height:1000px;" frameborder="0"></iframe>
 

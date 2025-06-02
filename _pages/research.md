@@ -28,11 +28,14 @@ redirect_from:
 <p></p><p></p>
 
 <h1>Working Papers</h1>
+
 <h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5279403">
     Algorithmic Collusion of Pricing and Advertising on E-commerce Platforms <i>(Job Market Paper)</i>
+  </a>
 </h2>
 with [Ron Berman](https://ron-berman.com). 
+
 
 <i>Finalist, 2025 ASA Marketing Section Doctoral Dissertation Research Award<i> 
 <details>

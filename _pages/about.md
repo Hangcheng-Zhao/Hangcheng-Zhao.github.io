@@ -11,7 +11,7 @@ redirect_from:
 <!-- Adding a half line of space -->
 <div style="margin-top: 1em;"></div>
 
-I am a Ph.D. candidate in [quantitative marketing](https://marketing.wharton.upenn.edu/phd-program-in-marketing/) at the [Wharton School](https://www.wharton.upenn.edu/) of University of Pennsylvania. I work on empirical analysis of pricing and algorithmic decision-making. My research goal is to understand how firms can leverage various algorithms to increase their profits, assess the impacts on pricing and information in the market, and recommend strategies to sellers, platform managers, and policymakers. Previously, I received my Bachelor's degree from [Tsinghua Unversity](https://www.tsinghua.edu.cn/en/) and a Master's degree from the [University of Chicago](https://www.uchicago.edu/en). 
+I am an Assistant Professor of Marketing at Rutgers Business School. I work on empirical analysis of pricing and algorithmic decision-making. My research goal is to understand how firms can leverage various algorithms to increase their profits, assess the impacts on pricing and information in the market, and recommend strategies to sellers, platform managers, and policymakers. I received my Ph.D. in [quantitative marketing](https://marketing.wharton.upenn.edu/phd-program-in-marketing/) from the [Wharton School](https://www.wharton.upenn.edu/) of the University of Pennsylvania. 
 
 <!-- Adding a half line of space -->
 <div style="margin-top: 1em;"></div>
@@ -23,8 +23,7 @@ Methodological: Reinforcement Learning, Artificial Intelligence, Empirical IO
 <!-- Adding a half line of space -->
 <div style="margin-top: 1em;"></div>
 
-I will be joining Rutgers University as an Assistant Professor of Marketing in the summer of 2025.
 
 <!-- Adding a half line of space -->
 <div style="margin-top: 1em;"></div>
-Get in touch at [zhaohc@wharton.upenn.edu](mailto:zhaohc@wharton.upenn.edu)
+Get in touch at [hangcheng.zhao@rutgers.edu](mailto:hangcheng.zhao@rutgers.edu)

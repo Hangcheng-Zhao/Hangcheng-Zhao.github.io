@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hangcheng Zhao @ Wharton"
+title: "Hangcheng Zhao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

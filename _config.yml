@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Hangcheng Zhao"
   avatar           : "profile_photo.JPG"
-  bio              : "Ph.D. Candidate, Wharton"
-  location         : "3730 Walnut Street"
-  employer         : "Philadelphia, PA"
+  bio              : "Assistant Professor of Marketing, Rutgers Business School"
+  location         : "1 Washington Pl"
+  employer         : "Newark, NJ"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wZJeKC0AAAAJ&hl=en"
-  email            : "zhaohc@wharton.upenn.edu"
-  uri              : "https://marketing.wharton.upenn.edu/profile/zhaohc/"
+  email            : "hangcheng.zhao@rutgers.edu"
+  uri              : "https://hangcheng-zhao.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :

@@ -28,7 +28,8 @@ I am an Assistant Professor of Marketing at Rutgers Business School. I work on e
   <li>
     <strong>Nov 2025:</strong>
     Invited talk:  
-      2026 IIOC Featured Session <a href="https://www.indorgsociety.org/news/2026-iioc-featured-sessions" target="_blank" rel="noopener noreferrer"> <em>Algorithmic Pricing</em>
+    <a href="https://www.indorgsociety.org/news/2026-iioc-featured-sessions" target="_blank" rel="noopener noreferrer"> 
+      2026 IIOC Featured Session <em>Algorithmic Pricing</em>
     </a>
   </li>
 </ul>

@@ -20,7 +20,7 @@ I am an Assistant Professor of Marketing at Rutgers Business School. I work on e
 <ul class="updates">
   <li>
     <strong>Dec 2025:</strong>
-    New working paper is out: —
+    New working paper is out:
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5992774" target="_blank" rel="noopener noreferrer">
       The Impact of LLMs on Online News Consumption and Production
     </a>
@@ -29,7 +29,6 @@ I am an Assistant Professor of Marketing at Rutgers Business School. I work on e
     <strong>Nov 2025:</strong>
     Invited talk — 2026 IIOC Featured Session: <em>Algorithmic Pricing</em>
     (<a href="https://www.indorgsociety.org/news/2026-iioc-featured-sessions" target="_blank" rel="noopener noreferrer">
-      announcement
     </a>)
   </li>
 </ul>

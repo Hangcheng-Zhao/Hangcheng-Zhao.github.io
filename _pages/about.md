@@ -17,8 +17,11 @@ I am an Assistant Professor of Marketing at Rutgers Business School. I work on e
 <div style="margin-top: 1em;"></div>
 
 News:
+
 Dec 2025: 
 New working paper is out: [The Impact of LLMs on Online News Consumption and Production](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5992774) 
+
+Nov 2025: Invited talk at one of the two [2026 IIOC Featured Sessions](https://www.indorgsociety.org/news/2026-iioc-featured-sessions) Algorithmic Pricing
 
 
 <!-- Adding a half line of space -->

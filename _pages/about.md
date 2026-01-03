@@ -24,7 +24,8 @@ Methodological: Reinforcement Learning, Artificial Intelligence, Empirical IO
 <div style="margin-top: 1em;"></div>
 
 News:
-Dec 2025: New working paper is out: The Impact of LLMs on Online News Consumption and Production (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5992774) 
+Dec 2025: 
+New working paper is out: [The Impact of LLMs on Online News Consumption and Production](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5992774) 
 
 
 <!-- Adding a half line of space -->

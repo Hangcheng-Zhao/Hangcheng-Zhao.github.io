@@ -33,7 +33,7 @@ I am an Assistant Professor of Marketing at Rutgers Business School. My research
     </a>
   </li>
   <li>
-    <strong>Nov 2025:</strong>
+    <strong>Aug 2025:</strong>
     My dissertation was a finalist for the 2025 ASA Marketing Section Doctoral Dissertation Research Award.
   </li>
 </ul>

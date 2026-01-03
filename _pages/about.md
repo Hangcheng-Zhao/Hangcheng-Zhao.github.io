@@ -16,13 +16,6 @@ I am an Assistant Professor of Marketing at Rutgers Business School. I work on e
 <!-- Adding a half line of space -->
 <div style="margin-top: 1em;"></div>
 
-Research Interests:  
-Substantive:  Pricing, Algorithmic Decision-Making, Recommendation Algorithms, Advertising, Platforms, Online Marketing.<br>
-Methodological: Reinforcement Learning, Artificial Intelligence, Empirical IO
-
-<!-- Adding a half line of space -->
-<div style="margin-top: 1em;"></div>
-
 News:
 Dec 2025: 
 New working paper is out: [The Impact of LLMs on Online News Consumption and Production](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5992774) 

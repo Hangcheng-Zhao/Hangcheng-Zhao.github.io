@@ -24,6 +24,8 @@ I am an Assistant Professor of Marketing at [Rutgers Business School](https://ww
     <a href="https://business.wisc.edu/event/symposium-on-artificial-intelligence-in-marketing-2026/" target="_blank" rel="noopener noreferrer">
       Symposium on Artificial Intelligence in Marketing 2026
     </a>
+      and
+      
     <a href="https://ide.mit.edu/events/2026-the-business-implications-of-generative-ai-mit-big-aimit/" target="_blank" rel="noopener noreferrer">
       2026 The Business Implications of Generative AI @ MIT (BIG.AI@MIT)
     </a>

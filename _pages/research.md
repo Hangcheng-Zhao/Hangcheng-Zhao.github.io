@@ -110,7 +110,7 @@ with <a href="https://kennethcwilbur.github.io/website/">Kenneth C. Wilbur</a>.
 <h2 style="font-size: 18px;">
     Reinforcement Learning and Optimal Credit Allocation
 </h2>
-with Vitaly M. Bord, Agnes Kovacs, and Patrick Moran.
+with Vitaly M. Bord, <a href="https://sites.google.com/site/agneskovacs13/">Agnes Kovacs</a>, and Patrick Moran.
 
 <h2 style="font-size: 18px;">
     A Transformer-Based Framework for Consumer Search Modeling

@@ -33,7 +33,6 @@ redirect_from:
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5279403">
     Algorithmic Collusion of Pricing and Advertising on E-commerce Platforms
   </a>
-  [<a href="https://arxiv.org/abs/2406.00176">arXiv</a>]
    <i>Major Revision at Marketing Science</i>
 </h2>
 with <a href="https://ron-berman.com">Ron Berman</a>.

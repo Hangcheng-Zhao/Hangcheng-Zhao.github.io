@@ -115,4 +115,4 @@ with <a href="https://www.federalreserve.gov/econres/vitaly-m-bord.htm">Vitaly M
 <h2 style="font-size: 18px;">
     A Transformer-Based Framework for Consumer Search Modeling
 </h2>
-with Zhenling Jiang.
+with <a href="https://jiangzhenling.com/">Zhenling Jiang</a>.

@@ -63,6 +63,14 @@ Our analyses help alleviate some worries about the potentially harmful effects o
 </h2>
 with <a href="https://ron-berman.com">Ron Berman</a>.
 
+<details>
+  <summary>Abstract</summary>
+  <p style="font-size: smaller; margin-left: 40px;">
+    <i>
+      Large language models (LLMs) change how consumers acquire information online; their bots also crawl news publishers' websites for training data and to answer consumer queries; and they provide tools that can lower the cost of content creation. These changes lead to predictions of adverse impact on news publishers in the form of lowered consumer demand, reduced demand for newsroom employees, and an increase in news "slop." Consequently, some publishers strategically responded by blocking LLM access to their websites using the robots.txt file standard. Using high-frequency granular data, we document four effects related to the predicted shifts in news publishing following the introduction of generative AI (GenAI). First, we find a moderate decline in traffic to news publishers occurring after August 2024. Second, using a difference-in-differences approach, we find that blocking GenAI bots can be associated with a reduction of total website traffic to large publishers compared to not blocking. Third, on the hiring side, we do not find evidence that LLMs are replacing editorial or content-production jobs yet. The share of new editorial and content-production job listings increases over time. Fourth, regarding content production, we find no evidence that large publishers increased text volume; instead, they significantly increased rich content and use more advertising and targeting technologies. Together, these findings provide early evidence of some unforeseen impacts of the introduction of LLMs on news production and consumption.
+    </i>
+  </p>
+</details>
 
 <h2 style="font-size: 18px;">
     Choosing the Winner: When and How to Correct for Selection Bias in Randomized Experiments

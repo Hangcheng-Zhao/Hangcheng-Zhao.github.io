@@ -70,7 +70,7 @@ with <a href="https://ron-berman.com">Ron Berman</a>.
     Choosing the Winner: When and How to Correct for Selection Bias in Randomized Experiments
    <i>Under Review</i>
 </h2>
-with <a href="https://ron-berman.com">Ron Berman</a> and Walter W. Zhang.
+with <a href="https://ron-berman.com">Ron Berman</a> and <a href="https://walterwzhang.github.io/">Walter W. Zhang</a>.
 
 <details>
   <summary>Abstract</summary>

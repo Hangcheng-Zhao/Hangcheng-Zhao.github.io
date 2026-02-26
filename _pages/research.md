@@ -110,7 +110,7 @@ with <a href="https://ron-berman.com">Ron Berman</a> and <a href="https://carlso
 <h2 style="font-size: 18px;">
     The Effectiveness of Digital Advertising Across Multiple Platforms
 </h2>
-with Kenneth C. Wilbur.
+with <a href="https://kennethcwilbur.github.io/website/">Kenneth C. Wilbur</a>.
 
 <h2 style="font-size: 18px;">
     Reinforcement Learning and Optimal Credit Allocation

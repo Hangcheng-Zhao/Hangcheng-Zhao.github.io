@@ -51,7 +51,7 @@ with <a href="https://ron-berman.com">Ron Berman</a>.
 
 <h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5992774">
-    The Impact of LLMs on Online News Consumption and Production
+    Strategic Response of News Publishers to Generative AI
   </a>
    <i>Under Review</i>
 </h2>
@@ -61,7 +61,7 @@ with <a href="https://ron-berman.com">Ron Berman</a>.
   <summary>Abstract</summary>
   <p style="font-size: smaller; margin-left: 40px;">
     <i>
-      Large language models (LLMs) change how consumers acquire information online; their bots also crawl news publishers' websites for training data and to answer consumer queries; and they provide tools that can lower the cost of content creation. These changes lead to predictions of adverse impact on news publishers in the form of lowered consumer demand, reduced demand for newsroom employees, and an increase in news "slop." Consequently, some publishers strategically responded by blocking LLM access to their websites using the robots.txt file standard. Using high-frequency granular data, we document four effects related to the predicted shifts in news publishing following the introduction of generative AI (GenAI). First, we find a moderate decline in traffic to news publishers occurring after August 2024. Second, using a difference-in-differences approach, we find that blocking GenAI bots can be associated with a reduction of total website traffic to large publishers compared to not blocking. Third, on the hiring side, we do not find evidence that LLMs are replacing editorial or content-production jobs yet. The share of new editorial and content-production job listings increases over time. Fourth, regarding content production, we find no evidence that large publishers increased text volume; instead, they significantly increased rich content and use more advertising and targeting technologies. Together, these findings provide early evidence of some unforeseen impacts of the introduction of LLMs on news production and consumption.
+      Generative AI can adversely impact news publishers by lowering consumer demand. It can also reduce demand for newsroom employees, and increase the creation of news “slop.” However, it can also form a source of traffic referrals and an information-discovery channel that increases demand. We use high-frequency granular data to analyze the strategic response of news publishers to the introduction of Generative AI. Many publishers strategically blocked LLM access to their websites using the robots.txt file standard. Using a difference-in-differences approach, we find that large publishers who block GenAI bots experience reduced website traffic compared to not blocking. In addition, we find that large publishers shift toward richer content that is harder for LLMs to replicate, without increasing text volume. Finally, we find that the share of new editorial and content-production job postings rises over time. Together, these findings illustrate the levers that publishers choose to use to strategically respond to competitive Generative AI threats, and their consequences.
     </i>
   </p>
 </details>

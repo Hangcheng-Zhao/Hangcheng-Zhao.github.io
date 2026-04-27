@@ -33,7 +33,7 @@ I am an Assistant Professor of Marketing at [Rutgers Business School](https://ww
     <strong>Dec 2025:</strong>
     New working paper is out!
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5992774" target="_blank" rel="noopener noreferrer">
-      The Impact of LLMs on Online News Consumption and Production
+      Strategic Response of News Publishers to Generative AI
     </a>
   </li>
   <li>

@@ -67,7 +67,8 @@ with <a href="https://ron-berman.com">Ron Berman</a>.
 </details>
 
 <h2 style="font-size: 18px;">
-    Choosing the Winner: When and How to Correct for Selection Bias in Randomized Experiments
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6773898">
+    Valuing Winners: When and How to Correct for Selection Bias in Randomized Experiments
    <i>Under Review</i>
 </h2>
 with <a href="https://ron-berman.com">Ron Berman</a> and <a href="https://walterwzhang.github.io/">Walter W. Zhang</a>.
@@ -76,7 +77,7 @@ with <a href="https://ron-berman.com">Ron Berman</a> and <a href="https://walter
   <summary>Abstract</summary>
   <p style="font-size: smaller; margin-left: 40px;">
     <i>
-      Decision-makers often select the best-performing treatment in a randomized experiment for deployment. This practice leads to the winner's curse: the estimated performance of the selected treatment is biased upwards because selection might favor treatments that had higher outcomes by chance. We analyze this problem by distinguishing three distinct objectives. (1) Global winner's curse: the bias relative to the truly best treatment; (2) selected winner's curse: the bias relative to the deployed treatment's true mean; and (3) regret: the loss from selecting the wrong treatment compared to the truly best. We derive an identity linking these three quantities and show that methods optimal for estimating for one objective can underperform for others. We evaluate proposed solutions including sample splitting, cross-fitting, bootstrap bias correction, adaptive resampling, conditional inference, and a novel empirical likelihood approach. When we focus on decision-making scenarios that reflect realistic experimental decision making settings, our results provide practical guidance: cross-fitting excels when treatments have similar effects, bootstrap correction offers good MSE properties for moderate differences between treatments, and the simple plug-in estimator dominates when treatment effects are large or in the asymptotic regime. Our proposed adaptive empirical likelihood method provides valid confidence intervals without being sensitive to a tuning parameter like resampling methods.
+      Decision-makers often deploy the best-performing treatment from a randomized experiment, creating a winner's curse: selection favors treatments whose observed outcomes are high partly because of statistical noise, so the naïve estimate of the winner is upward biased. We distinguish two forms of winner's curse, bias relative to the true best treatment (global) and bias relative to the selected treatment's true mean (selective), and link them to regret from deploying a suboptimal treatment. This framework defines seven decision-relevant evaluation targets: mean bias, mean squared error, and confidence interval coverage for the global and selective winner's curse, and mean regret. We then show that methods that perform well on one target can perform poorly on others, so corrections should be matched to the manager's objective. Across simulations with varying effect sizes, multiple-arm settings, and data calibrated to an online A/B testing platform, no method dominates uniformly: the plug-in estimator performs best when treatment differences are large, cross-fitting performs best when treatments are similar, and resampling methods often achieve low mean squared error for moderate differences. We also introduce an adaptive empirical likelihood procedure that delivers asymptotically valid confidence intervals across settings without the tuning sensitivity of resampling-based methods.
     </i>
   </p>
 </details>

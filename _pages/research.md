@@ -69,6 +69,7 @@ with <a href="https://ron-berman.com">Ron Berman</a>.
 <h2 style="font-size: 18px;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6773898">
     Valuing Winners: When and How to Correct for Selection Bias in Randomized Experiments
+  </a>
    <i>Under Review</i>
 </h2>
 with <a href="https://ron-berman.com">Ron Berman</a> and <a href="https://walterwzhang.github.io/">Walter W. Zhang</a>.

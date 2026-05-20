@@ -19,6 +19,13 @@ I am an Assistant Professor of Marketing at [Rutgers Business School](https://ww
 <h3>News</h3>
 <ul class="updates">
     <li>
+    <strong>May 2026:</strong>
+    New working paper is out!
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6773898" target="_blank" rel="noopener noreferrer">
+      Valuing Winners: When and How to Correct for Selection Bias in Randomized Experiments 
+    </a>
+  </li>
+    <li>
     <strong>Jan 2026:</strong>
     Invited talk: 
     <a href="https://business.wisc.edu/event/symposium-on-artificial-intelligence-in-marketing-2026/" target="_blank" rel="noopener noreferrer">
